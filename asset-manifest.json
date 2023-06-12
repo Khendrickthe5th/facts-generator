@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Khendrickthe5th/facts-generator.git/static/css/main.d176b8b6.css",
-    "main.js": "/Khendrickthe5th/facts-generator.git/static/js/main.b6a788e9.js",
-    "static/media/SpaceGrotesk-VariableFont_wght.ttf": "/Khendrickthe5th/facts-generator.git/static/media/SpaceGrotesk-VariableFont_wght.1036357b9651eff7d3dd.ttf",
-    "index.html": "/Khendrickthe5th/facts-generator.git/index.html",
-    "main.d176b8b6.css.map": "/Khendrickthe5th/facts-generator.git/static/css/main.d176b8b6.css.map",
-    "main.b6a788e9.js.map": "/Khendrickthe5th/facts-generator.git/static/js/main.b6a788e9.js.map"
+    "main.css": "/Khendrickthe5th/facts-generator/static/css/main.317280a8.css",
+    "main.js": "/Khendrickthe5th/facts-generator/static/js/main.b6a788e9.js",
+    "static/media/SpaceGrotesk-VariableFont_wght.ttf": "/Khendrickthe5th/facts-generator/static/media/SpaceGrotesk-VariableFont_wght.1036357b9651eff7d3dd.ttf",
+    "index.html": "/Khendrickthe5th/facts-generator/index.html",
+    "main.317280a8.css.map": "/Khendrickthe5th/facts-generator/static/css/main.317280a8.css.map",
+    "main.b6a788e9.js.map": "/Khendrickthe5th/facts-generator/static/js/main.b6a788e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.d176b8b6.css",
+    "static/css/main.317280a8.css",
     "static/js/main.b6a788e9.js"
   ]
 }
