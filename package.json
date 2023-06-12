@@ -2,7 +2,7 @@
   "name": "facts-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Khendrickthe5th/facts-generator/",
+  "homepage": "https://khendrickthe5th.github.io/facts-generator/",
   "dependencies": {
     "@mui/material": "^5.13.4",
     "@phosphor-icons/react": "^2.0.9",
