@@ -46,7 +46,7 @@ function Navbar() {
 
                     <span onClick={()=>{alert("Feature coming soon!")}} className="w-[100%] h-[70px] flex justify-center items-end font-font1 font-semibold text-[13px] sm:text-[21px] dark:text-white"><a href={void 0}>Random Quotes</a></span>
                     
-                    <span className="w-[100] h-[calc(100%-140px)] text-[7px] sm:text-[12px] font-font1 font-normal flex items-end justify-center pb-[20px] dark:text-white"><p>Made with 💖 by Ozoani Chidubem</p></span>
+                    <span className="w-[100] h-[calc(100%-140px)] text-[10px] sm:text-[15px] font-font1 font-normal flex items-end justify-center pb-[20px] dark:text-white"><p>Made with 💖 by Ozoani Chidubem</p></span>
                 </div>
             </div>
     </div>
