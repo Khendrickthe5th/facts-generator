@@ -21,7 +21,7 @@ function QuotesBar(){
     return(
         <div className="w-[100%] h-[calc(100vh-70px)] flex justify-center items-center px-[40px] dark:bg-transparent">
             <div className="w-[750px] h-fit  z-[2]">
-                <p className="sm:text-[40px] font-font1 text-[35px] font-bold dark:text-white select-none">{fact}</p>
+                <p className="sm:text-[40px] font-font1 text-[30px] font-bold dark:text-white select-none">{fact}</p>
 
                 <div className="sm:w-[300px] w-[180px] h-fit flex justify-center items-center mx-auto mt-[50px]">
                     <div className="w-[200px] h-[3px] bg-black dark:bg-white"></div>
