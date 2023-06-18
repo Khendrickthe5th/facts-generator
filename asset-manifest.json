@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/facts-generator/static/css/main.ad5dcdf5.css",
-    "main.js": "/facts-generator/static/js/main.c280e388.js",
+    "main.css": "/facts-generator/static/css/main.1e159430.css",
+    "main.js": "/facts-generator/static/js/main.b2049c7e.js",
     "static/media/SpaceGrotesk-VariableFont_wght.ttf": "/facts-generator/static/media/SpaceGrotesk-VariableFont_wght.1036357b9651eff7d3dd.ttf",
+    "static/media/loading-gif.webp": "/facts-generator/static/media/loading-gif.a562e5ff77c0f3090cef.webp",
     "index.html": "/facts-generator/index.html",
-    "main.ad5dcdf5.css.map": "/facts-generator/static/css/main.ad5dcdf5.css.map",
-    "main.c280e388.js.map": "/facts-generator/static/js/main.c280e388.js.map"
+    "main.1e159430.css.map": "/facts-generator/static/css/main.1e159430.css.map",
+    "main.b2049c7e.js.map": "/facts-generator/static/js/main.b2049c7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad5dcdf5.css",
-    "static/js/main.c280e388.js"
+    "static/css/main.1e159430.css",
+    "static/js/main.b2049c7e.js"
   ]
 }
