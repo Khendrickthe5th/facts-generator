@@ -1,11 +1,17 @@
 import axios from "axios";
 import { useState} from "react";
+import loader from "../icons/loading-gif.webp"
 
 function QuotesBar(){
     // const limit = 1;
-    const [fact, setFact] = useState("Click to spur facts that will give you heavy Goosebumpsss🙈🤘")
+    let isLoading = true;
+    let stallMessage = "Click to spur facts that will give you heavy Goosebumpsss🙈🤘"
+
+    const [fact, setFact] = useState(()=>{return isLoading ? stallMessage : fact})
 
     const getFact = ()=>{
+        setFact(()=>{return <img className="w-[40px] h-[40px] m-auto" height="100" width="100" src={loader} alt="loading"/>})
+        
         axios({
             method: "get",
             url: "https://api.api-ninjas.com/v1/facts?limit=1",
